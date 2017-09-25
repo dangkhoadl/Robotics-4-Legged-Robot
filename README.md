@@ -30,7 +30,11 @@ My project to complete the Bachelor of Engineering degree
 	- To eliminate Input noises from input data
 
 ## Demo
-	[Creeping Gait](https://www.youtube.com/watch?v=fn-V60laoiw)
-	[Walking Gait](https://www.youtube.com/watch?v=Subcgy-ac0Q)
-	[Walking and Trotting Gaits](https://www.youtube.com/watch?v=GGXLdF0h1R4)
-	[Traversing through different terrains](https://www.youtube.com/watch?v=WlVCievpWfg)
+[Creeping Gait](https://www.youtube.com/watch?v=fn-V60laoiw)
+[Walking Gait](https://www.youtube.com/watch?v=Subcgy-ac0Q)
+[Walking and Trotting Gaits](https://www.youtube.com/watch?v=GGXLdF0h1R4)
+[Traversing through different terrains](https://www.youtube.com/watch?v=WlVCievpWfg)
+
+## How to run
+* Use [ARM Keil IDE ](http://www2.keil.com/mdk5/)  to build and compile project files into .bin object
+* Use the built-in debugger to load the object file into the chip ROM
